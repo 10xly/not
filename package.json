@@ -1,0 +1,35 @@
+{
+  "name": "@not-js/not",
+  "version": "1.1.1",
+  "description": "NOT!!!!!!!!!!!!!!!",
+  "keywords": [
+    "10x'ly",
+    "made",
+    "npm",
+    "packages",
+    "10000000"
+  ],
+  "homepage": "https://github.com/10xly/not#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/not/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/not.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "function.apply-x": "^1.0.0",
+    "literally": "^1.0.0",
+    "not": "^0.1.0",
+    "uncurry-x": "^1.0.1",
+    "yanoop": "^1.0.0"
+  },
+  "devDependencies": {}
+}
